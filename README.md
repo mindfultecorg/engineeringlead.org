@@ -1,3 +1,3 @@
-# Crafting Code Leaders: A Manual for Aspiring Software Engineering Leads
+# Becoming a Software Engineering Lead
 
 Contents of the website https://engineeringlead.org/
