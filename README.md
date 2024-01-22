@@ -1,3 +1,3 @@
 # Becoming a Software Engineering Lead
 
-Contents of the website https://engineeringlead.org/
+Contents of the website https://engineeringlead.org
